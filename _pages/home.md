@@ -14,8 +14,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>ScanNet Indoor Scene Understanding Challenge</h1></center>
-    <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
-    <center>June 16, 2019; Hyatt Seaview B</center>
+    <center><h2>CVPR 2020 Workshop, Seattle, WA</h2></center>
+    <center>June 19, 2020</center>
   </div>
 </div>
 
@@ -113,15 +113,15 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Poster Submission Deadline</td>
-          <td>May 15 2019</td>
+          <td>May 20 2020</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 20 2019</td>
+          <td>May 25 2020</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 16 2019</td>
+          <td>June 19 2020</td>
         </tr>
       </tbody>
     </table>
@@ -155,23 +155,23 @@ acknowledgements: ""
           <td>1:45pm - 2:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1: Jitendra Malik, <i>Seeing while moving and moving while seeing in a 3D world</i></td>
+          <td>Invited Talk 1</td>
           <td>2:00pm - 2:30pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 1 (MinkowskiNet / Chris Choy) </td>
+          <td>Winner Talk 1 </td>
           <td>2:30pm - 2:45pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2 (joint point-based / Hung-Yueh Chiang) </td>
+          <td>Winner Talk 2 </td>
           <td>2:45pm - 3:00pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 3 (MTML / Jean Lahoud) </td>
+          <td>Winner Talk 3 </td>
           <td>3:00pm - 3:15pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 4 (PanopticFusion / Gaku Narita) </td>
+          <td>Winner Talk 4 </td>
           <td>3:15pm - 3:30pm</td>
         </tr>
         <tr>
@@ -179,11 +179,11 @@ acknowledgements: ""
           <td>3:30pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Leo Guibas, <i>Deep Learning on 3D Point Clouds</i></td>
+          <td>Invited Talk 2</td>
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Denver Dash, <i>Deep 3D: The New Frontier of Computer Vision</i></td>
+          <td>Invited Talk 3</td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
@@ -204,27 +204,27 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/leo.png" | prepend:site.baseurl }}"></a>
+    <a href="http://www.cvlibs.net"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas_geiger.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas J. Guibas</a></b> heads the Geometric Computation group in the Computer Science Department of Stanford University.  He is acting director of the Artificial Intelligence Laboratory and member of the Computer Graphics Laboratory, the Institute for Computational and Mathematical Engineering (iCME) and the Bio-X program.  His research centers on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. Professor Guibas' interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms --- all areas in which he has published and lectured extensively.
+      <b><a href="http://www.cvlibs.net">Andreas Geiger</a></b> is a professor of computer science heading the Autonomous Vision Group (AVG) at the University of Tbingen and the MPI for Intelligent Systems in Tbingen, Germany. His research is focused on 3D scene understanding, reconstruction, motion estimation, generative modeling and sensory-motor control in the context of autonomous systems. His work aims to make artificial intelligent systems such as self-driving cars or household robots more autonomous, efficient, robust and safe.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.sfu.ca/~furukawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/yasu_furukawa.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. He is also on the faculty of the department of Bioengineering, and the Cognitive Science and Vision Science groups. During 2002-2004 he served as the Chair of the Computer Science Division, and as the Department Chair of EECS during 2004-2006 as well as 2016-2017. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park.
+      <b><a href="https://www.cs.sfu.ca/~furukawa/">Yasutaka Furukawa</a></b> is an associate professor of Computing Science at Simon Fraser University. Prior to SFU, he was an assistant professor at Washington University in St. Louis. Before WUSTL, he was a software engineer at Google. Before Google, he was a post-doctoral research associate at University of Washington. He worked with Prof. Seitz and Prof. Curless at University of Washington, and Rick Szeliski at Facebook (was at Microsoft Research). He completed his Ph.D. under the supervision of Prof. Ponce at Computer Science Department of University of Illinois at Urbana-Champaign in May 2008.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://occipital.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/denver.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.princeton.edu/~funk/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/tom_funkhouser.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://occipital.com/">Denver Dash</a></b> is the Director of Machine Learning at Occipital, where he focuses on combining machine learning with geometric vision to solve problems in 3d perception. In 2014 he became a Principal Engineer and approximately employee number 80 at Magic Leap, where he grew the Machine Learning team from scratch. In 2016 he became the Director of Gesture Recognition and led the development of the hand tracking system that was put into production for Magic Leap One. Prior to Magic Leap, Denver was a Sr. Research Scientist at the Intel Research lab at Carnegie Mellon University, where he served as adjunct faculty at the Robotics Institute, developing novel multi-modal approaches for computer vision and generative models for causal reasoning.
+      <b><a href="https://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a></b> is Senior Research Scientist at Google and former Professor of computer science at Princeton University. Before coming to Princeton, he worked for four years on the technical staff at Bell Laboratories. He holds a Ph.D. in computer science from the University of California, Berkeley (1993), a Masters in computer science from UCLA, and a Bachelors in biological sciences from Stanford. Among Professor Funkhouser's honors and awards are the ACM SIGGRAPH Computer Graphics Achievement Award (2014), Sloan Foundation Fellowship (1999), and National Science Foundation Career Award (2000).
     </p>
   </div>
 </div><br>

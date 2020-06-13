@@ -155,7 +155,7 @@ acknowledgements: ""
           <td>1:45pm - 2:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1</td>
+          <td>Implicit Neural Representations: From Objects to 3D Scenes (Andreas Geiger)</td>
           <td>2:00pm - 2:30pm</td>
         </tr>
         <tr>

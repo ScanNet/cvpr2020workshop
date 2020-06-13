@@ -183,7 +183,7 @@ acknowledgements: ""
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 3</td>
+          <td>Semantic Scene Reconstruction from RGBD Scans (Thomas Funkhouser)</td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>

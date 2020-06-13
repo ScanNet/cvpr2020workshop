@@ -179,7 +179,7 @@ acknowledgements: ""
           <td>3:30pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2</td>
+          <td>CVPR is a Contemporary Art Exhibition (Yasutaka Furukawa)</td>
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>

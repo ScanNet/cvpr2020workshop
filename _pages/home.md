@@ -206,7 +206,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="http://www.cvlibs.net"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas_geiger.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://www.cvlibs.net">Andreas Geiger</a></b> is a professor of computer science heading the Autonomous Vision Group (AVG) at the University of Tbingen and the MPI for Intelligent Systems in Tbingen, Germany. His research is focused on 3D scene understanding, reconstruction, motion estimation, generative modeling and sensory-motor control in the context of autonomous systems. His work aims to make artificial intelligent systems such as self-driving cars or household robots more autonomous, efficient, robust and safe.
+      <b><a href="http://www.cvlibs.net">Andreas Geiger</a></b> is a professor of computer science heading the Autonomous Vision Group (AVG) at the University of Tubingen and the MPI for Intelligent Systems in Tubingen, Germany. His research is focused on 3D scene understanding, reconstruction, motion estimation, generative modeling and sensory-motor control in the context of autonomous systems. His work aims to make artificial intelligent systems such as self-driving cars or household robots more autonomous, efficient, robust and safe.
     </p>
   </div>
 </div><br>
@@ -224,7 +224,10 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.cs.princeton.edu/~funk/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/tom_funkhouser.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a></b> is Senior Research Scientist at Google and former Professor of computer science at Princeton University. Before coming to Princeton, he worked for four years on the technical staff at Bell Laboratories. He holds a Ph.D. in computer science from the University of California, Berkeley (1993), a Masters in computer science from UCLA, and a Bachelors in biological sciences from Stanford. Among Professor Funkhouser's honors and awards are the ACM SIGGRAPH Computer Graphics Achievement Award (2014), Sloan Foundation Fellowship (1999), and National Science Foundation Career Award (2000).
+      <b><a href="https://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a></b> is a senior research scientist at Google and the David
+M. Siegel Professor of Computer Science, Emeritus, at Princeton University.  He received a PhD in computer science from UC Berkeley in
+1993 and was a member of the technical staff at Bell Labs until 1997 before joining the faculty at Princeton.  For most of his career, he focused on research problems in computer graphics, including foundational work on 3D shape retrieval, analysis, and modeling.   His
+most recent research has focused on 3D scene understanding in computer vision. He has published more than 100 research papers and received several awards, including the ACM SIGGRAPH Computer Graphics Achievement Award, ACM SIGGRAPH Academy, ACM Fellow, NSF Career Award, Emerson Electric, E. Lawrence Keyes Faculty Advancement Award, Google Faculty Research Awards, University Council Excellence in Teaching Awards, and a Sloan Fellowship.
     </p>
   </div>
 </div><br>

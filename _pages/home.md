@@ -206,7 +206,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="http://www.cvlibs.net"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas_geiger.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://www.cvlibs.net">Andreas Geiger</a></b> is a professor of computer science heading the Autonomous Vision Group (AVG) at the University of Tubingen and the MPI for Intelligent Systems in Tubingen, Germany. His research is focused on 3D scene understanding, reconstruction, motion estimation, generative modeling and sensory-motor control in the context of autonomous systems. His work aims to make artificial intelligent systems such as self-driving cars or household robots more autonomous, efficient, robust and safe.
+      <b><a href="http://www.cvlibs.net">Andreas Geiger</a></b> is professor at the University of Tübingen and group leader at the Max Planck Institute for Intelligent Systems. Prior to this, he was a visiting professor at ETH Zürich and a research scientist at MPI-IS. He studied at KIT, EPFL and MIT and received his PhD degree in 2013 from the KIT. His research interests are at the intersection of 3D reconstruction, motion estimation, scene understanding and sensory-motor control. He maintains the KITTI vision benchmark.
     </p>
   </div>
 </div><br>

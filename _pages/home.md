@@ -21,6 +21,12 @@ acknowledgements: ""
 
 <hr>
 
+<br>
+  <center>
+  <h1><a href="https://youtu.be/S7wm806JQ1M">Join Us Here: Live Stream</a></h1>
+  </center>
+<br>
+
 <div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.jpg" | prepend:site.baseurl }}">

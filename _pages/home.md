@@ -152,31 +152,43 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Welcome and Introduction</td>
-          <td>1:45pm - 2:00pm</td>
+          <td>1:50pm - 2:00pm</td>
         </tr>
         <tr>
           <td>Implicit Neural Representations: From Objects to 3D Scenes (Andreas Geiger)</td>
           <td>2:00pm - 2:30pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 1 </td>
-          <td>2:30pm - 2:45pm</td>
+          <td>Winner Talk: KPConv (Hugues Thomas) </td>
+          <td>2:30pm - 2:40pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2 </td>
-          <td>2:45pm - 3:00pm</td>
+          <td>Winner Talk: SparseConvNet (Benjamin Graham) </td>
+          <td>2:40pm - 2:50pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 3 </td>
+          <td>Winner Talk: PointGroup (Li Jiang) </td>
+          <td>2:50pm - 3:00pm</td>
+        </tr>
+        <tr>
+          <td>Break </td>
           <td>3:00pm - 3:15pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 4 </td>
-          <td>3:15pm - 3:30pm</td>
+          <td>Winner Talk: Sparse 3D Perception (Chris Choy) </td>
+          <td>3:15pm - 3:25pm</td>
         </tr>
         <tr>
-          <td>Break and poster session</td>
-          <td>3:30pm - 4:00pm</td>
+          <td>Winner Talk: 3D-MPA (Francis Engelmann) </td>
+          <td>3:25pm - 3:35pm</td>
+        </tr>
+        <tr>
+          <td>Winner Talk: OccuSeg (Tian Zheng) </td>
+          <td>3:35pm - 3:45pm</td>
+        </tr>
+        <tr>
+          <td>Break </td>
+          <td>3:45pm - 4:00pm</td>
         </tr>
         <tr>
           <td>CVPR is a Contemporary Art Exhibition (Yasutaka Furukawa)</td>
